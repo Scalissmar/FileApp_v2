@@ -1,0 +1,8 @@
+{
+    "input_dir": "C:/FTP_TRANSFER/IN",
+    "output_dir": "C:/FTP_TRANSFER/OUT",
+    "template": "C:/FTP_TRANSFER/IN/Template.xlsx",
+    "template_type": "Output.xlsx",
+    "check": 0,
+    "merge": 0
+}
