@@ -29,23 +29,23 @@ class Main:
 		self.tfile = self.config_data.get("template_type")
 		self.cx = self.config_data.get("check", 0)
 
-	def mac (self):
-		ent =  self.config_data.get("input_dir", "")
-		sai = self.config_data.get("output_dir", "")
-		tem = self.config_data.get("template", "")
-		tfile = self.config_data.get("template_type", "Output.xlsx")
-		cx = self.config_data.get("check", 0)
-		
-		print(self.ent)
-		print(self.sai)
-		print(self.tem)
-		print(self.tfile)
-		print(self.cx)
-		
-		# if cx = 1:
-		# 	self.consolidar_com_formato(template_path=tem, input_dir=ent, output_path=sai, output_file=telFile)
-		# else:
-		# 	self.validar_e_consolidar(template_path=tem, input_dir=ent, output_path=sai, output_file=telFile)
+	# def mac (self):
+	# 	ent =  self.config_data.get("input_dir", "")
+	# 	sai = self.config_data.get("output_dir", "")
+	# 	tem = self.config_data.get("template", "")
+	# 	tfile = self.config_data.get("template_type", "Output.xlsx")
+	# 	cx = self.config_data.get("check", 0)
+	#
+	# 	print(self.ent)
+	# 	print(self.sai)
+	# 	print(self.tem)
+	# 	print(self.tfile)
+	# 	print(self.cx)
+	#
+	# 	# if cx = 1:
+	# 	# 	self.consolidar_com_formato(template_path=tem, input_dir=ent, output_path=sai, output_file=telFile)
+	# 	# else:
+	# 	# 	self.validar_e_consolidar(template_path=tem, input_dir=ent, output_path=sai, output_file=telFile)
 	
 	def run(self):
 		self.config_app.root.mainloop()
