@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b36bf79c-9c0d-4e42-9a74-b712847faf9e" name="Changes" comment="Step_2">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b36bf79c-9c0d-4e42-9a74-b712847faf9e" name="Changes" comment="Step_4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +16,7 @@
         <option value="Scalisse &lt;scalissmar@hotmail.com&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -43,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.gui.executor": "Run",
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.gui.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="gui" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FileApp_v2" />
@@ -128,12 +127,57 @@
       <option name="project" value="LOCAL" />
       <updated>1743601405364</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Step_2">
+      <option name="closed" value="true" />
+      <created>1743601512877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743601512877</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Step_2">
+      <option name="closed" value="true" />
+      <created>1743601587704</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743601587704</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Step_3">
+      <option name="closed" value="true" />
+      <created>1743601691441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743601691441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Step_4">
+      <option name="closed" value="true" />
+      <created>1743601833088</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743601833088</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Step_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Step_2" />
+    <MESSAGE value="Step_3" />
+    <MESSAGE value="Step_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Step_4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -35,13 +35,13 @@ class Main:
 		tem = self.config_data.get("template", "")
 		tfile = self.config_data.get("template_type", "Output.xlsx")
 		cx = self.config_data.get("check", 0)
-		
+
 		print(self.ent)
 		print(self.sai)
 		print(self.tem)
 		print(self.tfile)
 		print(self.cx)
-		
+
 		# if cx = 1:
 		# 	self.consolidar_com_formato(template_path=tem, input_dir=ent, output_path=sai, output_file=telFile)
 		# else:
